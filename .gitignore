@@ -81,3 +81,7 @@ app_debug.log
 *.pkg.tar.zst
 *.deb
 *.rpm
+
+#unwanted
+.cache
+.zed
